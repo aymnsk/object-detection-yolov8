@@ -1,6 +1,3 @@
-✅ Final README.md (Copy This Entire Block)
-markdown
-Copy code
 # 🧠 Object Detection with YOLOv8 on Static Images
 
 This project demonstrates object detection on a folder of static images using the **YOLOv8** model from [Ultralytics](https://github.com/ultralytics/ultralytics). It processes each image and saves the results with bounding boxes and labels.
