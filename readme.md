@@ -62,26 +62,6 @@ Furniture (Chair, Sofa, Bed)
 
 And many more...
 
-📷 Sample Outputs
-
-### Before and After: Object Detection Example
-
-<table>
-    <tr>
-        <th>Original Image</th>
-        <th>Detected Objects (YOLOv8 Output)</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="images/ddddcca1-1fea-45e7-b540-0bf337ef2245.jpeg" alt="Original Image" width="320"/>
-        </td>
-        <td align="center">
-            <img src="results/ddddcca1-1fea-45e7-b540-0bf337ef2245.jpeg" alt="Detected Image" width="320"/>
-        </td>
-    </tr>
-</table>
-
-
 ⚠️ Disclaimer
 This is a demo project using a pre-trained model. While YOLOv8 performs very well, the predictions might not always be accurate depending on the image content or quality.
 
